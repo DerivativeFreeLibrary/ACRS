@@ -29,6 +29,7 @@ sqrt = math.sqrt
 import time
 import random
 
+
 #------------------------------------------------------------------------------------
 class ACRS:
 	def __init__(self,myfunc,lb,ub):
